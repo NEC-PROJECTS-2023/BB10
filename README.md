@@ -2,14 +2,10 @@
 Earthquake Prediction System
 
 
-
-B.Bala Murali Krishna
-
-
-M.Aditya
-
-
-R.Vijay  kumar
+#### Team Members
+1. B.Bala Murali Krishna
+2. M.Aditya
+3. R.Vijay  kumar
 
 **Introduction**
 
@@ -23,3 +19,6 @@ that have been used to predict earthquakes but none have been precise and accura
 The system that I am trying to build is to predict the magnitude of earthquake based
 on the historical data set. The traditional way of analysis is not advisable to use with such
 big data. The volume of data is too large so there has to be a powerful tool for data analysis
+
+**Dataset**
+Link - https://www.kaggle.com/competitions/LANL-Earthquake-Prediction/data
